@@ -4,16 +4,22 @@
 
 ---
 ##Tecnologías utilizadas
+
 -Python
+
 -Pytest
+
 -Selenium WebDriver
+
 -pytest-html
 
 ---
 
 ## Instalación de dependencias
 pip install pytest
+
 pip install selenium
+
 pip install webdriver-manager
 
 ## Ejecucion de pruebas
