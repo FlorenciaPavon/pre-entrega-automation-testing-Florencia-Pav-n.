@@ -1,4 +1,4 @@
-# SauceDemo Automation Project
+# SauceDemo Projecto de Automatización 
 
 ## Objetivo Este proyecto fue creado para automatizar pruebas funcionales en la página https://www.saucedemo.com/ utilizando Selenium con Pytest.
 
